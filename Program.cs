@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Welcome to my Banking System (Coded)");
+﻿Console.WriteLine("Welcome to my Banking System (Coded) NEW UI");
 
 Console.Write("Name: ");
 var name = Console.ReadLine();
